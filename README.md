@@ -20,7 +20,7 @@ I am not making use yet of the 4 Motor Connectors, but I will: I have two 2-wire
 
 A couple of other things, less vital, more in the "Oh, that's cool to have" class: the reset button, much more accessible than on the Pico; and the ON/OFF switch.
 
-All in all, this Pico baseboard is 
+All in all, this Pico baseboard is a great addition to my toolbox, and I will be back for more!
 
 ![demo](demo.gif)
 
